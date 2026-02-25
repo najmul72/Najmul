@@ -1,8 +1,0 @@
-# wsl install
-first install from microsoft store to windows for subsytem linux
-pls open command prompt
-type bellow command
-wsl --install -d kali-linux
-
-# WSL Login With CMD
-wsl -d kali-linux -u username
