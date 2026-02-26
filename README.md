@@ -1,7 +1,7 @@
 ## Hi, I'm Nazmul 👋
 
 🖥️ IT Support / Helpdesk  
-💻 Windows & Linux System  
+💻 Windows & Linux System Administartor 
 🌐 Networking & Hardware  
 🛠️ Troubleshooting & Maintenance  
 
